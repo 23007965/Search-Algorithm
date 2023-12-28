@@ -41,9 +41,11 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ## Sample Input and Output
 
+![Screenshot 2023-12-28 065148](https://github.com/etjabajasphin/Search-Algorithm/assets/138971238/3c15691f-b0ec-44b9-8248-1e1da50310ea)
 
+![Screenshot 2023-12-28 065303](https://github.com/etjabajasphin/Search-Algorithm/assets/138971238/3aa94203-e0e9-4e11-aba5-dcd0a9fa9aab)
 
-
+![Screenshot 2023-12-28 065337](https://github.com/etjabajasphin/Search-Algorithm/assets/138971238/6dd3d39d-0591-4af2-a584-05fca5382644)
 
 
 ## Result
