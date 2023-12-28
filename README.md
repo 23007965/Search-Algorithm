@@ -40,6 +40,7 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 
 ```
 ## Sample Input and Output
+![Screenshot 2023-12-28 065148](https://github.com/23007965/Search-Algorithm/assets/138971238/4dc14131-b1c0-4e7e-9a0f-cd9b1b541b95)
 
 
 
