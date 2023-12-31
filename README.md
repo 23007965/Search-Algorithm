@@ -129,7 +129,8 @@ else:
 
 ![image](https://github.com/23007965/Search-Algorithm/assets/138971238/366f04e0-d1eb-4473-9f10-ca53a35a380e)
 
-![image](https://github.com/23007965/Search-Algorithm/assets/138971238/7b7148d9-9938-41db-a7cc-9d40af1965b4)
+![image](https://github.com/23007965/Search-Algorithm/assets/138971238/84ac515d-c205-4cc8-b985-f92e56e47bab)
+
 
 
 
